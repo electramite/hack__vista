@@ -1,7 +1,5 @@
 # hack__vista
 It is primarily built for those who aren't blind by birth, so that they know what different colours look like.
-	                                     EXPLAIN THE SOLUTION DEVELOPED
-
 This device uses a webcam to observe the world around the user (blind and colour blind) and make their lives 
 slightly better. The device identifies the colours of objects that come in front of it, and then using a speaker
 the colours are told to the user. Using this information, the user can decide which coloured clothes to wear, 
